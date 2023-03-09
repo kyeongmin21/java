@@ -24,13 +24,10 @@ public class InputNumber {
         System.out.println(str);
         System.out.println(age);
 
-
         int num1 = scan.nextInt();
         int num2 = scan.nextInt();
 
         System.out.println(num2);
         System.out.println(num1);
-
-
     }
 }
